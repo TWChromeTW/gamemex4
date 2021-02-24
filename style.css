@@ -1,0 +1,200 @@
+.shapkatext{
+
+	background-image:url(xK.gif);
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	position:relative;
+	font: italic normal 38pt Impact, fantasy;
+	color:white;
+	height:190px;
+
+}
+
+a{ 
+    text-decoration: none;
+}
+
+body{
+	background-image: url(back.png);
+	\\background-repeat:no-repeat;
+}
+
+.pipboy{
+	float:left;
+    margin:0 80px;
+}
+
+.mario{
+
+	float:left;
+
+    margin:0 80px;
+
+}
+
+
+.robot{
+	float:left;
+    margin:0 80px;
+}
+
+.menu{
+	float:left;
+	margin:0 auto;
+    margin-bottom:100px;
+	\\border: 1px solid blue;
+	font: italic normal  120% Trattatello, fantasy;
+	color:white;
+}
+
+.txtmenu{
+
+	position:relative;
+	bottom:55px;
+	
+}
+
+.osninfa{
+	float:left;
+    \\border:1px solid red;
+	width:100%;
+    height:400px;
+}
+
+.txtwhite{
+	
+	color:white;
+	
+}
+
+.tt{
+    height:400px;
+	width:40%;
+	margin:0 auto;
+    \\border:1px solid blue;
+    position:relative;
+    top:-500px;
+	left:140px;
+	font: italic normal  110% Times New Roman, serif;
+}
+.back{
+	position:relative;
+	bottom:50px;
+    height:455px;
+	width:35%;
+	margin:0 auto;
+    \\border:1px solid blue;
+	background-color:#F489B7;
+	\\opacity: 0.9;
+}
+
+.dc{
+
+	float:left;
+	margin-left: 350px ;
+    margin-right: 20px;
+}
+
+.vk{
+
+	float:left;
+	margin-left: 350px;
+    margin-right: 20px;
+
+}
+
+
+.inst{
+	
+	float:left;
+	margin-left: 350px;
+    margin-right: 20px;
+}
+
+.podval{
+	display:block;
+	float:left;
+	margin:0 auto;
+	position:fixed;
+	bottom:0;
+	width:100%;
+	\\border: 1px solid red;
+	background-color:#6B1560;
+
+}
+
+.kybok{
+
+	float:left;
+	width:250px;
+	height:370px;
+}
+
+
+.lvup{
+
+	float:left;
+	width:200px;
+	height:200px;
+
+}
+
+.achivment{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+
+}
+
+.time{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+
+}
+
+.virusmex{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+
+}
+
+.status{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+
+}
+
+.lvvert{
+
+	float:left;
+	width:100px;
+	height:370px;
+
+}
+
+.vlgor{
+
+	float:left;
+	width:250px;
+	height:370px;
+
+}
+
+.head_txt{
+	width:100px;
+	float:right;
+
+}
+.txt {
+	width:200px;
+	float:right;
+}
+
